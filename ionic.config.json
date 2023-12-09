@@ -1,0 +1,7 @@
+{
+  "name": "tpa-logistic-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
